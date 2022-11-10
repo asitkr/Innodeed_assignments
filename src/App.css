@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  background-color: #DDBEAA;
+  height: 100vh;
+  width: 100%;
+}
+
+
+.wrapit {
+  height: 100vh;
+}
+
+.kXteup:hover {
+  background-color: #000000 !important;
+  color: #DDBEAA !important;
+}
+
+.sc-bcXHqe {
+  background-color: #DDBEAA !important;
+  color: #000000 !important;
+}
